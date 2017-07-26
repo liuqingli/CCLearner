@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CCLearner_Lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/antlr-4.5-complete.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipses.jdt.core-3.3.0-v_771.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

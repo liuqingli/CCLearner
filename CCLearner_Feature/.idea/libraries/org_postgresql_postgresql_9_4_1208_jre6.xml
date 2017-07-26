@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.postgresql:postgresql:9.4.1208.jre6" type="repository">
+    <properties maven-id="org.postgresql:postgresql:9.4.1208.jre6" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/postgresql-9.4.1208.jre6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

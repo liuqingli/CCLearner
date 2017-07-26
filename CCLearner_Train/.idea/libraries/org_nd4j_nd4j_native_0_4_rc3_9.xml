@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="org.nd4j:nd4j-native:0.4-rc3.9" type="repository">
+    <properties maven-id="org.nd4j:nd4j-native:0.4-rc3.9" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/nd4j-native-0.4-rc3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nd4j-native-0.4-rc3.9-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nd4j-native-api-0.4-rc3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nd4j-buffer-0.4-rc3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-buffer-4.0.28.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-common-4.0.28.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nd4j-common-0.4-rc3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reflections-0.9.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.19.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math3-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javacpp-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nd4j-api-0.4-rc3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok-1.16.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nd4j-context-0.4-rc3.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

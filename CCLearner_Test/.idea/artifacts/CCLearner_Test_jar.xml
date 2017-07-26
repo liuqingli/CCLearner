@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="CCLearner_Test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CCLearner_Test.jar">
+        <element id="module-output" name="CCLearner_Test" />
+      </element>
+      <element id="library" level="project" name="org.deeplearning4j:deeplearning4j-core:0.4-rc3.9" />
+      <element id="library" level="project" name="CCLearner_Lib" />
+      <element id="library" level="project" name="org.nd4j:nd4j-native:0.4-rc3.9" />
+      <element id="library" level="project" name="org.nd4j:canova-nd4j-common:0.0.0.15" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.eclipse.birt.runtime:org.eclipse.equinox.preferences:3.5.200.v20140224-1527" type="repository">
+    <properties maven-id="org.eclipse.birt.runtime:org.eclipse.equinox.preferences:3.5.200.v20140224-1527" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.equinox.preferences-3.5.200.v20140224-1527.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

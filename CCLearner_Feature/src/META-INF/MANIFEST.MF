@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: lib/antlr-4.5-complete.jar lib/commons-lang3-3.0.jar lib/org.eclipses.
+ jdt.core-3.3.0-v_771.jar lib/org.eclipse.equinox.preferences-3.5.200.v201
+ 40224-1527.jar lib/org.eclipse.core.contenttype-3.4.200.v20140207-1251.ja
+ r lib/postgresql-9.4.1208.jre6.jar lib/org.eclipse.core.runtime-3.10.0.v20140
+ 318-2214.jar lib/org.eclipse.equinox.common-3.6.200.v20130402-1505.jar lib/or
+ g.eclipse.core.resources-3.9.1.v20140825-1431.jar lib/org.eclipse.core.jo
+ bs-3.6.0.v20140424-0053.jar lib/org.eclipse.osgi-3.10.1.v20140909-1633.ja
+ r
+Main-Class: vt.cs.CCLearner_Feature
+

@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact name="CCLearner_Feature:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CCLearner_Feature_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CCLearner_Feature.jar">
+        <element id="module-output" name="CCLearner_Feature" />
+      </element>
+      <element id="library" level="project" name="CCLearner_Lib" />
+      <element id="library" level="project" name="org.eclipse.birt.runtime:org.eclipse.equinox.preferences:3.5.200.v20140224-1527" />
+      <element id="library" level="project" name="org.eclipse.birt.runtime:org.eclipse.core.contenttype:3.4.200.v20140207-1251" />
+      <element id="library" level="project" name="org.postgresql:postgresql:9.4.1208.jre6" />
+      <element id="library" level="project" name="org.eclipse.birt.runtime:org.eclipse.core.runtime:3.10.0.v20140318-2214" />
+      <element id="library" level="project" name="org.eclipse.birt.runtime:org.eclipse.equinox.common:3.6.200.v20130402-1505" />
+      <element id="library" level="project" name="org.eclipse.birt.runtime:org.eclipse.core.resources:3.9.1.v20140825-1431" />
+      <element id="library" level="project" name="org.eclipse.birt.runtime:org.eclipse.core.jobs:3.6.0.v20140424-0053" />
+      <element id="library" level="project" name="org.eclipse.birt.runtime:org.eclipse.osgi:3.10.1.v20140909-1633" />
+    </root>
+  </artifact>
+</component>

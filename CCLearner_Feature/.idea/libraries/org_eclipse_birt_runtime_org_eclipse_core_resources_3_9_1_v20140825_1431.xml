@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.eclipse.birt.runtime:org.eclipse.core.resources:3.9.1.v20140825-1431" type="repository">
+    <properties maven-id="org.eclipse.birt.runtime:org.eclipse.core.resources:3.9.1.v20140825-1431" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.core.resources-3.9.1.v20140825-1431.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
