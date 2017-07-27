@@ -1,12 +1,11 @@
 # CCLearner
 
 ## Folders and Files
-- BigCloneBench -- Includes raw java files and sql script for labeled data
-- Run -- Jar Files and dependencies for easy mode
 - CCLearner_Feature -- Generate data for training model
-- CCLearner_Train -- Generate training models
 - CCLearner_Test -- Detect clone pairs by leveraging training models
+- CCLearner_Train -- Generate training models
 - Recall_Query -- SQL scripts for calculating recall rates of different types of clones
+- Run -- Jar Files and dependencies for easy mode
 - CCLearner.conf -- Configuration file of CCLearner
 
 ## Prerequisite
