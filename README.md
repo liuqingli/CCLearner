@@ -12,7 +12,7 @@
 ## Prerequisite
 - Ubuntu14.04, JAVA 8
 
-## Benchmark Preparation
+## BigCloneBench Preparation
 #### Extract SQL script
 ```
 $ tar -xvzf era_bigclonebench.sql.tar.gz
@@ -50,7 +50,7 @@ ALTER ROLE cclearner Superuser;
 $ apt-get install pgadmin3
 ```
 
-## Customize CCLearner Configuration File
+## Customization
 To run all the experiments in our paper, the following parameters could be changed. For 1-7, change the path with your own username and directory.
 1. source.file.path
 2. output.dir
@@ -66,7 +66,7 @@ To run all the experiments in our paper, the following parameters could be chang
 12. training.hidden.num (also need to modify the source file in CCLearner_Train)
 13. testing.folder (users can reduce the number of testing folders to save time)
 
-## Run CCLearner -- Easy Mode (Recommended)
+## Execution -- Easy Mode (Recommended)
 By using the default or modified configuration file, go to Run folder and execute the following commands
 ```
 java -jar CCLearner_Feature.jar
@@ -74,10 +74,10 @@ java -jar CCLearner_Train.jar
 java -jar CCLearner_Test.jar (may take some time)
 ```
 
-## Run CCLearner -- Developer Mode
+## Execution -- Developer Mode
 To change datasets, more parameters or the source code, open CCLearner_Feature, CCLearner_Train, CCLearner_Test, rebuild and rerun the given project  
 
-## Results Evaluation
+## Evaluation
 #### Data import
 Table "tools_clones" in PostgreSQL is used for data import. It is better to use pgAdmin to truncate table 
 and import csv file into database.
